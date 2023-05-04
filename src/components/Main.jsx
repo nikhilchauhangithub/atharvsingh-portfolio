@@ -44,7 +44,7 @@ const Main = () => {
           <div className="md:grid grid-cols-2 sm:row-span-2">
             <div className="left bg-white w-full md:h-screen p-6 flex justify-center items-center">
               <img
-                src="https://fotosdeperfilaesthetic.tech/wp-content/uploads/2023/03/20230312_230250.jpg"
+                src="src/components/img/image.jpg"
                 alt="Atharv Singh"
                 class="h-28 md:w-48 md:h-48 rounded-full sm:w-28 sm:h-28"
               ></img>
